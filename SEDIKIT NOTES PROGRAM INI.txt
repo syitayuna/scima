@@ -1,0 +1,8 @@
+untuk menjalankan program ini dengan sepenuhnya
+diperlukan beberapa tambahan perintah maupun cara, yaitu :
+(pip install dilakukan di terminal)
+1. pip install gtts untuk menginstall library gtts yang ada di python berguna mengambil sound
+dari google text to speech yang berformat file .mp3
+2. Pip install playsound==1.2.2 untuk menginstall playsound berguna memutar file .mp3
+3. mengganti path di modul sains pada baris ke 193-205 bagian 'defkimia(mencari):'  
+diganti sesuai path file komputer masing2
